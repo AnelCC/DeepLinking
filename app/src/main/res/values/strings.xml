@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeepLinking</string>
+    <string name="page1">First Activity</string>
+    <string name="page2">Second Activity</string>
+</resources>
